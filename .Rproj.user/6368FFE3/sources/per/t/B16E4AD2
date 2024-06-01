@@ -1,0 +1,26 @@
+{
+    "id": "B16E4AD2",
+    "path": "~/Documents/StageL3/seqToString.R",
+    "project_path": "seqToString.R",
+    "type": "r_source",
+    "hash": "78710645",
+    "contents": "",
+    "dirty": false,
+    "created": 1713462169160.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "112,1",
+        "scrollLine": "96"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1713466695,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1713466695472,
+    "read_only": false,
+    "read_only_alternatives": []
+}

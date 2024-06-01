@@ -1,0 +1,26 @@
+{
+    "id": "9A283F6E",
+    "path": "~/Documents/StageL3/clustering.R",
+    "project_path": "clustering.R",
+    "type": "r_source",
+    "hash": "116908319",
+    "contents": "",
+    "dirty": false,
+    "created": 1713466548136.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,42",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1713466605,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1713466605089,
+    "read_only": false,
+    "read_only_alternatives": []
+}
